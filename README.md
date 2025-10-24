@@ -120,14 +120,14 @@ npm run dev
 
 
 ## 🧮 Core Functionalities
-Feature	Description
-_
-Login System	| Admin & Collector authentication using JWT
-Collector Management |	Add, edit, delete collector details
-Waste Categories |	Plastic, Organic, Paper, Metal
-Task Assignment	| Admin assigns waste collection tasks
-Status Update |	Pending / Completed tracking
-Profile Management | Collectors can view and update their profile
+|Feature | Description|
+|--------|------------|
+|Login System	| Admin & Collector authentication using JWT|
+|Collector Management |	Add, edit, delete collector details|
+|Waste Categories |	Plastic, Organic, Paper, Metal|
+|Task Assignment	| Admin assigns waste collection tasks|
+|Status Update |	Pending / Completed tracking|
+|Profile Management | Collectors can view and update their profile|
 _
 
 ## 💡 Highlights (For Resume / Portfolio)

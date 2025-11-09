@@ -93,7 +93,7 @@ DB_NAME=wastemanagement
 JWT_SECRET=your_secret_key
 ```
 
-- Run the backend:
+- Run the Backend:
 
 ```bash
 npm start
@@ -105,6 +105,12 @@ npm start
 ```bash
 cd Client-Side
 npm install
+
+```
+
+- Run the Frontend:
+
+```bash
 npm run dev
 ```
 
